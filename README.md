@@ -8,12 +8,13 @@ using https://www.taniarascia.com/node-express-postgresql-heroku/ - api served u
 ## todo
 all of it :)
 
-- first build the example in https://www.taniarascia.com/node-express-postgresql-heroku/  - just do the local express server with prostgres
+- first build the example in https://www.taniarascia.com/node-express-postgresql-heroku/  - just do the local express server with postgres
 - then build simple front end
 - extend the DB to do as bit more than one or two fields?
 - deploy to heroku
 - improve the thing
 
 ## in progress
+tutorial, as far as local express server with postgres - from https://www.taniarascia.com/node-express-postgresql-heroku/
 
 ## done
