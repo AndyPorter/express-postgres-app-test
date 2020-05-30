@@ -18,3 +18,13 @@ all of it :)
 tutorial, as far as local express server with postgres - from https://www.taniarascia.com/node-express-postgresql-heroku/
 
 ## done
+
+- install postgres
+- create db user for app, and log in as user
+- create books table and add a book from command line
+
+
+## usefull notes:
+
+- brew services start postgresql (to start postgres service running in background)
+- brew services stop postgresql (stop postgress service)
