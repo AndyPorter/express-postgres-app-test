@@ -22,9 +22,13 @@ tutorial, as far as local express server with postgres - from https://www.taniar
 - install postgres
 - create db user for app, and log in as user
 - create books table and add a book from command line
+- install npm module pg
+
 
 
 ## usefull notes:
 
 - brew services start postgresql (to start postgres service running in background)
 - brew services stop postgresql (stop postgress service)
+- npm start (start server/app)
+- curl http://localhost:3002/books (tests the db - should return the books from the db)
